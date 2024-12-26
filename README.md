@@ -19,7 +19,7 @@ A conversational AI chatbot powered by **Groq** and **Langchain**. This project 
 Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/ai-assistant-groq.git
+git clone https://github.com/yadivyanshu/ai-assistant-groq.git
 cd ai-assistant-groq
 ```
 
@@ -47,7 +47,7 @@ Example `.env` file:
 GROQ_API_KEY=your-groq-api-key-here
 ```
 
-Ensure you replace `your-groq-api-key-here` with your actual API key from Groq.
+Ensure you replace `your-groq-api-key-here` with your actual API key from Groq. [Create API Key](https://console.groq.com/keys)
 
 ### 5. Run the App
 Start the Streamlit application:
